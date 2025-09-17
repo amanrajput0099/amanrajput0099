@@ -1,4 +1,4 @@
-![logo](https://github.com/amanrajput0099/amanrajput0099/blob/main/picture.jpg height=)
+![logo](https://github.com/amanrajput0099/amanrajput0099/blob/main/picture.jpg )
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Mern developer from India</h3>
